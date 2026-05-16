@@ -4,19 +4,19 @@ notification-worker
 
 # Environment
 .env
-*.env
+.env
 !.env.example
 
 # Go
-*.test
-*.out
+.test
+.out
 vendor/
 
 # IDE
 .idea/
 .vscode/
-*.swp
-*.swo
+.swp
+.swo
 
 # OS
 .DS_Store
